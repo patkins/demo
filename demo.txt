@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 "I am here" 
+=======
+'Hello World' 
+'Are you still spinning?' 
+"Spinning round and round" 
+>>>>>>> draft
